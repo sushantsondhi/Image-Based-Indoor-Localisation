@@ -10,5 +10,6 @@ Our aim is to make system without adding much /any additional equipment to the i
 feasibility and minimizing cost. 
 
 ## Demonstration
-A prototype of the working demonstration can be found here. https://drive.google.com/file/d/1_QE4poxZA_qykM25uo0iLsJHQe69xiYO/view?usp=sharing. The video in the bottom right corner of the screen is the live query video sent by the user. The graph in the top left displays the current loction of the user and the video adjacent to graph displays the unique frames being extracted out of video and processed.
+A prototype of the working demonstration can be found here. https://drive.google.com/file/d/1_QE4poxZA_qykM25uo0iLsJHQe69xiYO/view?usp=sharing. 
+The video in the bottom right corner of the screen is the live query video sent by the user. The graph in the top left displays the current loction of the user and the video adjacent to graph displays the unique frames being extracted out of video and processed.
 
